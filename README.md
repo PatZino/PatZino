@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Let's make this world an easy place, by providing solutions to everyday task one line of code at a time.
+### Let's make this world fun, by providing solutions to everyday task one line of code at a time.
